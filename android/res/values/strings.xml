@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treasure Hunter</string>
+    <string name="host">Host</string>
+    <string name="maps">Maps</string>
+    <string name="options">Options</string>
+    <string name="join">Join</string>
+</resources>

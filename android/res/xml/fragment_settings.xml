@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Volume">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="music volume"
+            android:title="Music Volume" />
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="sound effects"
+            android:title="Sound Effects" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
